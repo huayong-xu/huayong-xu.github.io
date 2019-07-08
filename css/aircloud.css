@@ -650,6 +650,12 @@ body {
 .post-content p img {
   width: 80%;
 }
+.post-content img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
 .post-content ul,
 .post-content ol {
   padding-left: 2em;
